@@ -2,7 +2,7 @@
 
 <p align="center">Code. Curiosity. A little fun with it.</p>
 
-<h2 align="center"><a href="https://frankstop.github.io/portfoliotest1/">MY PORTFOLIO! ↗</a></h2>
+<h2 align="center"><a href="https://frankiejvaldez.com/portfoliotest1/">MY PORTFOLIO! ↗</a></h2>
 
 ```text
        +---+---+---+---+---+

@@ -7,7 +7,7 @@ description='Frank Valdez’s portfolio: selected projects, interactive experime
 gh api "repos/$repo" --silent
 gh api --method PATCH "repos/$repo" \
   -f description="$description" \
-  -f homepage='https://frankstop.github.io/portfoliotest1/' --silent
+  -f homepage='https://frankiejvaldez.com/portfoliotest1/' --silent
 
 # Reuse an existing Pages site; create one only when GitHub confirms it is absent.
 if result=$(gh api "repos/$repo/pages" 2>&1); then
