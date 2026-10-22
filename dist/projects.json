@@ -1,0 +1,74 @@
+{
+  "fetched_at": "2026-10-22T05:34:14.073433+00:00",
+  "projects": [
+    {
+      "name": "frankstop.github.io",
+      "title": "Portfolio",
+      "summary": "Independently deployed projects, brought together in one website.",
+      "feats": [
+        "12,000 canvas particles move through four mathematical vortex fields.",
+        "Lazy-loaded project previews and a live resume viewer compose separately deployed sites."
+      ],
+      "evidence": "README.md",
+      "url": "https://github.com/frankstop/frankstop.github.io",
+      "pushed_at": "2026-10-16T03:58:29Z",
+      "languages": {
+        "HTML": 238381,
+        "JavaScript": 206154,
+        "CSS": 170,
+        "Ruby": 74
+      },
+      "evidence_url": "https://github.com/frankstop/frankstop.github.io/blob/main/README.md"
+    },
+    {
+      "name": "KingKullenResearch",
+      "title": "King Kullen Research",
+      "summary": "A historical grocery-price pipeline and searchable item explorer.",
+      "feats": [
+        "UPC matching compares dated catalog snapshots and retains missing and returned items.",
+        "An 80% catalog-match gate prevents partial crawls from becoming the next published baseline."
+      ],
+      "evidence": "README.md",
+      "status": "Retired \u00b7 Sep 6, 2026",
+      "url": "https://github.com/frankstop/KingKullenResearch",
+      "pushed_at": "2026-09-11T12:23:36Z",
+      "languages": {
+        "Python": 99153,
+        "JavaScript": 16634,
+        "CSS": 3627,
+        "HTML": 539,
+        "Dockerfile": 197
+      },
+      "evidence_url": "https://github.com/frankstop/KingKullenResearch/blob/main/README.md"
+    },
+    {
+      "name": "OthelloAISource",
+      "title": "Othello AI",
+      "summary": "A full-stack strategy game that makes its AI reasoning visible.",
+      "feats": [
+        "Four opponents: Greedy, Minimax, Alpha-Beta Pruning and Monte Carlo Tree Search.",
+        "A real-time analysis heatmap visualizes move evaluations, backed by FastAPI and SQLite."
+      ],
+      "evidence": "readme.txt",
+      "language_note": "GitHub byte counts include the committed virtual environment.",
+      "url": "https://github.com/frankstop/OthelloAISource",
+      "pushed_at": "2025-08-05T18:01:29Z",
+      "languages": {
+        "Python": 36004854,
+        "Cython": 547739,
+        "C": 493002,
+        "C++": 355855,
+        "JavaScript": 43369,
+        "Fortran": 40333,
+        "CSS": 14814,
+        "PowerShell": 9033,
+        "HTML": 8988,
+        "Meson": 4589,
+        "Shell": 3203,
+        "Assembly": 3086,
+        "Batchfile": 143
+      },
+      "evidence_url": "https://github.com/frankstop/OthelloAISource/blob/main/readme.txt"
+    }
+  ]
+}
